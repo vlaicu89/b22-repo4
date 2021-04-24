@@ -1,0 +1,2 @@
+i just created empty remote repository from github.com
+and cloned this repository by clicking on 
